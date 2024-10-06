@@ -101,10 +101,10 @@ You can install the following libraries via the Arduino Library Manager:
    - Get your **API Key** and **Database URL** from the Firebase Console.
    
 5. **Wi-Fi Setup**: 
-   - In the code, replace `"your-ssid"` and `"your-password"` with your Wi-Fi credentials.
+   - In the code, place `"your-ssid"` and `"your-password"` with your Wi-Fi credentials.
    
 6. **Firebase Credentials**: 
-   - Replace `"your-project-id"` and `"your-api-key"` with your Firebase project details.
+   - Place `"your-project-id"` and `"your-api-key"` with your Firebase project details.
 
 7. **Upload the Code**:
    - Open the Arduino IDE, copy the provided code, and upload it to the ESP32.
